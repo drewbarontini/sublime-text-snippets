@@ -11,5 +11,5 @@
 ]]></content>
   <tabTrigger>hmgr</tabTrigger>
   <description>Grid - Haml (MVCSS)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

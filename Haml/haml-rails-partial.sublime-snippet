@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>hmrp</tabTrigger>
   <description>Partial - Haml (Rails)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

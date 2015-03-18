@@ -6,5 +6,5 @@
 ]]></content>
   <tabTrigger>hmgrb</tabTrigger>
   <description>Grid Box - Haml (MVCSS)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

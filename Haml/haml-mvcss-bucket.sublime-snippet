@@ -11,5 +11,5 @@
 ]]></content>
   <tabTrigger>hmbk</tabTrigger>
   <description>Bucket - Haml (MVCSS)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

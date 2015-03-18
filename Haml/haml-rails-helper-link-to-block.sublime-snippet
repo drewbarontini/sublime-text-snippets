@@ -5,5 +5,5 @@
 ]]></content>
   <tabTrigger>hmltb</tabTrigger>
   <description>Link To (Block) - Haml (Rails)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>hmitp</tabTrigger>
   <description>Image Tag (Placeholder) - Haml (Rails)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>

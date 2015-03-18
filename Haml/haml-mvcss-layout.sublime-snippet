@@ -7,5 +7,5 @@
 ]]></content>
   <tabTrigger>hmlay</tabTrigger>
   <description>Layout - Haml (MVCSS)</description>
-  <scope>source.haml</scope>
+  <scope>text.haml</scope>
 </snippet>
