@@ -1,2 +1,19 @@
-# sublime-text-snippets
-Sublime Text 2/3 snippets
+Sublime Text Snippets
+=====================
+
+CoffeeScript
+------------
+
+### jQuery
+
+Haml
+----
+
+### MVCSS
+
+### Rails
+
+Sass
+----
+
+### MVCSS
