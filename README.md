@@ -36,3 +36,16 @@ Updating
 --------
 
 Simple `cd` into the directory for your snippets and run `git pull`.
+
+### Git Submodule
+
+If you created a Git Submodule, do the following to update:
+
+```bash
+cd path/to/dotfiles
+git submodule update
+cd path/to/Snippets
+git pull
+cd -
+-> Commit the submodule update
+```
