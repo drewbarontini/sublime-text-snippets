@@ -15,7 +15,7 @@ git clone git@github.com:drewbarontini/sublime-text-snippets.git Snippets
 
 If you already have your Sublime Text settings in a repo (such as dotfiles), then use a Git Submodule instead:
 
-```bash
+```
 cd path/to/dotfiles
 git submodule add git@github.com:drewbarontini/sublime-text-snippets.git path/to/Snippets
 -> Commit the submodule addition
@@ -41,7 +41,7 @@ Simple `cd` into the directory for your snippets and run `git pull`.
 
 If you created a Git Submodule, do the following to update:
 
-```bash
+```
 cd path/to/dotfiles
 git submodule update
 cd path/to/Snippets
