@@ -11,6 +11,16 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User # Change path i
 git clone git@github.com:drewbarontini/sublime-text-snippets.git Snippets
 ```
 
+### Git Submodule
+
+If you already have your Sublime Text settings in a repo (such as dotfiles), then use a Git Submodule instead:
+
+```bash
+cd path/to/dotfiles
+git submodule add git@github.com:drewbarontini/sublime-text-snippets.git path/to/Snippets
+-> Commit the submodule addition
+```
+
 Usage
 -----
 
