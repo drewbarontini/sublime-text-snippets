@@ -21,17 +21,6 @@ git submodule add git@github.com:drewbarontini/sublime-text-snippets.git path/to
 -> Commit the submodule addition
 ```
 
-Usage
------
-
-All snippets are prefixed to prevent clashing with Sublime Text's autocomplete.
-
-- **CoffeeScript**: `cf`
-- **Haml**: `hm`
-- **Sass**: `ss`
-
-Once you type the prefix, you'll see the autocomplete list of snippets.
-
 Updating
 --------
 
